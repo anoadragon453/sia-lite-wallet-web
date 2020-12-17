@@ -307,7 +307,7 @@ export default {
 					environment: 'PRODUCTION',
 					cryptoCurrencyCode: 'SC',
 					walletAddress: addresses[0].address,
-					themeColor: '19cf86',
+					themeColor: '196acf',
 					countryCode: 'US',
 					widgetHeight: `${window.innerHeight * 0.8}px`,
 					hostURL: window.location.origin
